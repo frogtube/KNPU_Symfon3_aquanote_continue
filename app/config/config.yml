@@ -37,9 +37,11 @@ framework:
 # Twig Configuration
 twig:
     debug:            "%kernel.debug%"
-    strict_variables: "%kernel.debug%"
+    strict_variables: "%kernel.debug%"git status
     number_format:
         thousands_separator: ','
+    form_themes:
+        - bootstrap_3_layout.html.twig
 
 # Doctrine Configuration
 doctrine:
