@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72e10a45-3531-433b-acd5-ba244f370323" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/KNPU_Symfony3_aquanote_continue.iml" afterPath="$PROJECT_DIR$/.idea/KNPU_Symfony3_aquanote_continue.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/Admin/GenusAdminController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/Admin/GenusAdminController.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,17 +37,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GenusAdminController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GenusAdminController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Admin/GenusAdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="299">
+              <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
               <folding>
                 <element signature="e#45#78#0#PHP" expanded="true" />
                 <element signature="e#493#510#1#PHP" expanded="true" />
                 <element signature="e#566#594#0#PHP" expanded="true" />
-                <element signature="e#1224#1251#0#PHP" expanded="true" />
+                <element signature="e#1301#1328#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,6 +93,7 @@
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/SubFamily.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Entity/Genus.php" />
         <option value="$PROJECT_DIR$/src/AppBundle/Controller/Admin/GenusAdminController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
       </list>
     </option>
   </component>
@@ -123,6 +134,32 @@
             <path>
               <item name="KNPU_Symfony3_aquanote_continue" type="b2602c69:ProjectViewProjectNode" />
               <item name="KNPU_Symfony3_aquanote_continue" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="KNPU_Symfony3_aquanote_continue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KNPU_Symfony3_aquanote_continue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="KNPU_Symfony3_aquanote_continue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KNPU_Symfony3_aquanote_continue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="KNPU_Symfony3_aquanote_continue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KNPU_Symfony3_aquanote_continue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="KNPU_Symfony3_aquanote_continue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KNPU_Symfony3_aquanote_continue" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="main" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="KNPU_Symfony3_aquanote_continue" type="b2602c69:ProjectViewProjectNode" />
@@ -183,12 +220,12 @@
       <updated>1510732627255</updated>
       <workItem from="1510732631064" duration="2120000" />
       <workItem from="1510734866966" duration="5208000" />
-      <workItem from="1510752566084" duration="2409000" />
+      <workItem from="1510752566084" duration="3006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9737000" />
+    <option name="totallyTimeSpent" value="10334000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2497" y="0" width="1350" height="1047" extended-state="0" />
@@ -258,7 +295,7 @@
             <element signature="e#45#78#0#PHP" expanded="true" />
             <element signature="e#493#510#1#PHP" expanded="true" />
             <element signature="e#566#594#0#PHP" expanded="true" />
-            <element signature="e#1224#1251#0#PHP" expanded="true" />
+            <element signature="e#1301#1328#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -312,6 +349,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -358,14 +398,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/Admin/GenusAdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="299">
+          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
           <folding>
             <element signature="e#45#78#0#PHP" expanded="true" />
             <element signature="e#493#510#1#PHP" expanded="true" />
             <element signature="e#566#594#0#PHP" expanded="true" />
-            <element signature="e#1224#1251#0#PHP" expanded="true" />
+            <element signature="e#1301#1328#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="35" column="14" lean-forward="false" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
